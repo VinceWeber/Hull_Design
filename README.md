@@ -1,5 +1,15 @@
 # Hull_Design
-Design a Hull shape based on using Beziers Curves by using basics parameters  - VBA - Excel 2003
+
+  Design a Hull shape based on using Beziers Curves by using basics parameters  - VBA - Excel 2003
+
+  Need on imput values : 
+    - Total lenght if the hull
+    - Maximal Width
+    - Width at the back of the hull
+    - Depth of the hull according see level
+    - Height of the hull according see level.
+  
+      
 
 # Table of contents
 
