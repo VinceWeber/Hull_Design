@@ -29,8 +29,6 @@ Man pages have been added. Checkout `man colorls`.
 
     Project is no more active since 2005.
 
-Do you need help `?
-
 # Contributing
 
 [(Back to top)](#table-of-contents)
