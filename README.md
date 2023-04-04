@@ -29,9 +29,3 @@ Man pages have been added. Checkout `man colorls`.
 
     Project is no more active since 2005.
 
-# Contributing
-
-[(Back to top)](#table-of-contents)
-
-Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. :tada:
-
