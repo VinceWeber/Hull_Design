@@ -32,7 +32,6 @@ Man pages have been added. Checkout `man colorls`.
 
 - Using `--gs` with `-t` :
 
-  ![image](https://user-images.githubusercontent.com/17109060/32149076-8423c864-bd25-11e7-816e-8642643d2c27.png)
 
 # Installation
 
