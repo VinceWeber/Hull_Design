@@ -14,7 +14,7 @@ Design a Hull shape based on using Beziers Curves by using basics parameters  - 
 [(Back to top)](#table-of-contents)
 
 Man pages have been added. Checkout `man colorls`.
-
+![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/maquette%20006.jpg)
 
 # Installation
 
