@@ -9,9 +9,10 @@ Design a Hull shape by Basic parameters using Beziers Curves - VBA - Excel 2003
   - [Combination of flags](#combination-of-flags)
 - [Installation](#installation)
 - [Recommended configurations](#recommended-configurations)
-- [Custom configurations](#custom-configurations)
+- [Support] (#Support)
+- [Project Status] (# Project Status)
+- [RoadMap] (#RoadMap)
 - [Updating](#updating)
-- [Uninstallation](#uninstallation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -53,14 +54,6 @@ Man pages have been added. Checkout `man colorls`.
     alias lc='colorls -lA --sd'
     ```
 
-# Custom configurations
-
-[(Back to top)](#table-of-contents)
-
-You can overwrite the existing icons and colors mapping by copying the yaml files from `$(dirname $(gem which colorls))/yaml` into `~/.config/colorls`, and changing them.- To overwrite color mapping :
-
-  Please have a look at the [list of supported color names](https://github.com/sickill/rainbow#color-list). You may also use a color hex code as long as it is quoted within the YAML file and prefaced with a `#` symbol.
-
 # Updating
 
 [(Back to top)](#table-of-contents)
@@ -71,15 +64,24 @@ Want to update to the latest version of `colorls`?
 gem update colorls
 ```
 
-# Uninstallation
+# Support
 
 [(Back to top)](#table-of-contents)
 
-Want to uninstall and revert back to the old style? No issues (sob). Please feel free to open an issue regarding how we can enhance `colorls`.
+Do you need help `?
 
-```sh
-gem uninstall colorls
-```
+
+# Project Status
+
+[(Back to top)](#table-of-contents)
+
+Do you need help `?
+
+# RoadMap
+
+[(Back to top)](#table-of-contents)
+
+Do you need help `?
 
 # Contributing
 
