@@ -10,7 +10,7 @@ Design a Hull shape by Basic parameters using Beziers Curves - VBA - Excel 2003
 - [Installation](#installation)
 - [Recommended configurations](#recommended-configurations)
 - [Support](#Support)
-- [Project status](#Project status)
+- [Project status](#Project_status)
 - [RoadMap](#RoadMap)
 - [Updating](#updating)
 - [Contributing](#contributing)
@@ -71,7 +71,7 @@ gem update colorls
 Do you need help `?
 
 
-# Project status
+# Project_status
 
 [(Back to top)](#table-of-contents)
 
