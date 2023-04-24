@@ -27,11 +27,12 @@ On main sheet, define parameters of your hull.
 Then specifie on functions F1, H1, poupe & proue positions of the Beziers knots.
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Hull%20parameters.png)
 
-Check below if the geometry of beziers curves satisfies you.
+Check below if the geometry of beziers curves satisfies your need.
+
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Hull_Parametes%20graphical_output.png)
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Hull_Parametes%20graphical_output_Bezier_couples.png)
 
-Then launch a calculation, by cliquing on "Calculer", the prpgram compute the volume of your hull and export :
+Then launch a calculation, by cliquing on "Calculer", the program compute the volume of your hull and export :
 - on somes graphes the shape.
 
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Hull_Horizontal_section.png)
