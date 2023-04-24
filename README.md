@@ -38,7 +38,7 @@ Then launch a calculation, by cliquing on "Calculer", the program compute the vo
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Hull_Horizontal_section.png)
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Hull_longitudinal_vertical_section.png)
 
-- A table with values of mecanical characteristics of the hull.
+- A table with values of geometrical and mecanical characteristics of the hull, of graphes (for example, A
 
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Calculation%20results.png)
 ![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/Wet_surface_evolution_avec_angle_de_gite.png)
@@ -50,7 +50,10 @@ Then launch a calculation, by cliquing on "Calculer", the program compute the vo
 
 This software allowed me to be able to build a small scaled sailing boat (1m long, in 2004).
 
-
+![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/maquette%20006.jpg)
+![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/maquette%20199a.jpg)
+![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/maquette%20215.jpg)
+![image](https://github.com/VinceWeber/Hull_Design/blob/VinceWeber-Editing-Readme/Screenshots/maquette%20228.jpg)
 
 # Installation
 
