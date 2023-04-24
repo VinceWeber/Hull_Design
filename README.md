@@ -39,9 +39,11 @@ Then launch a calculation, by cliquing on "Calculer", the program compute the vo
 ![image](https://github.com/VinceWeber/Hull_Design/blob/main/Screenshots/Hull_Horizontal_section.png)
 ![image](https://github.com/VinceWeber/Hull_Design/blob/main/Screenshots/Hull_longitudinal_vertical_section.png)
 
-- A table with values of geometrical and mecanical characteristics of the hull, of graphes (for example, A
+- A table with values of geometrical and mecanical characteristics of the hull, of graphes
 
 ![image](https://github.com/VinceWeber/Hull_Design/blob/main/Screenshots/Calculation%20results.png)
+
+- Somes graphes as evolution of wett surface (yellow) and Crx (bleu) according to angle of heel.
 ![image](https://github.com/VinceWeber/Hull_Design/blob/main/Screenshots/Wet_surface_evolution_avec_angle_de_gite.png)
 
 -others parameters of the boat can be configured as the position of sails, mast, keel and rudder.
